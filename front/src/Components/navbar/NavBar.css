@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    
+  }
+
+
+  a{
+      text-decoration: none;
+      color: #303030;
+  }
+
+  
+
+ .logo-ecole{
+     width: 200px;
+ }
+
+ .button-inscription{
+     border-radius: 42px;
+     padding: 10px 30px;
+     border:none;
+     margin-left: 20px;
+ }
+
+
+
+ .backNav{
+     align-items: center;
+ }
+
+ .font{
+     font-size: 20px;
+ }
+
+/*  .div-navbar{
+    border-bottom: 4mm ridge rgb(170, 50, 220, .6);
+ } */
+
+
+
+
+ @media screen and (max-width:992px){
+    .inscription{
+        display: none;
+    }
+ }
+
+
+ @media screen and (max-width:353px){
+    .logo-ecole{
+        width: 150px;
+    }
+ }
+
+  @media screen and (min-width:1260px){
+    .div-navbar{
+        box-shadow: 1px 1px 10px grey;
+    }
+ } 

@@ -1,0 +1,33 @@
+.div-separate{
+    border : 1px solid rgba(68, 67, 67, 0.993);
+}
+
+.container-button{
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn-name-actu,
+.btn-name-agenda{
+    font-size: 1.5rem;
+}
+
+
+
+
+
+#Calque_3 path{
+    fill:#f3f3f3;
+}
+
+.cls-3{
+    fill:#f3f3f3;  
+}
+
+
+
+.btn-group-vertical>.btn, .btn-group>.btn{
+    border-radius: 0px;
+}
+
